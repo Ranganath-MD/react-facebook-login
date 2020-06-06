@@ -1,7 +1,5 @@
 # react-facebook-login
 
-[Try it on StackBlitz ⚡️](https://stackblitz.com/edit/react-facebook-login)
-
 ### Demo 
 
 https://react-facebook-login.stackblitz.io/
